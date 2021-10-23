@@ -1,7 +1,6 @@
 releases/*
 *.biprivatekey
 keys/*
-.hemtt/local
 addons/*.pbo
 texHeaders.bin
 Thumbs.db
