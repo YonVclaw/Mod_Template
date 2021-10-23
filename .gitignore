@@ -22,8 +22,6 @@ texHeaders.bin
 *.swo
 *.biprivatekey
 Thumbs.db
-sqfvm.exe
-.vscode/
 *.sqfc
 
 
